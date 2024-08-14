@@ -4,7 +4,7 @@
 - 🌱 Estudando OpenCV and MediaPipe
 - 🔥 Programador FIRST 🚀
 - 📫 Contate-me através do email: gabrielbersidev@gmail.com
-- 
+  
 <div>
   <a href="https://github.com/gabrielbersidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbersidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
