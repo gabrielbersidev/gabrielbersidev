@@ -1,7 +1,7 @@
 ### Opa Galera! Eu sou o Gabriel Bersi 👋
 
 - 🔭 Estudante SESI-SP
-- 🌱 Estudando OpenCV and MediaPipe
+- 🌱 Estudando Flutter
 - 🔥 Programador FIRST 🚀
 - 📫 Contate-me através do email: gabrielbersidev@gmail.com
   
