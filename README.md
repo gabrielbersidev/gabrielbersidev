@@ -5,7 +5,11 @@
 - 🔥 Programador FIRST 🚀
 - 📫 Contate-me através do email: gabrielbersidev@gmail.com
   
-  
+<div>
+  <a href="https://github.com/gabrielbersidev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbersidev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   ##
   
   <div style="display: inline_block"><br>
