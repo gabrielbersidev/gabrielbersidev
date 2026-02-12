@@ -13,9 +13,6 @@
   
   <div style="display: inline_block"><br>
 
-  
-  ##
-  
   <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0wcG1scXd5dndxMWllY2Y5emh1bG5remE3djNkMmtieTBmMTJqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btSo7SEiGRWaOBi/giphy.gif">
   
   ##
