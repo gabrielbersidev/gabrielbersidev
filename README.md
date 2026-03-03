@@ -1,8 +1,8 @@
 ### Opa Galera! Eu sou o Gabriel Bersi 👋
 
-- 🔭 Estudante SESI-SP
-- 🌱 Estudando Flutter
-- 🔥 Programador FIRST 🚀
+- 🔭 Estudante SESI-SP/SENAI-SP
+- 🌱 Estudando Flutter/Supabase
+- 🔥 Programador "FIRST" 🚀
 - 📫 Contate-me através do email: gabrielbersidev@gmail.com
   
 <div>
